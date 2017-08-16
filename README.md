@@ -1,3 +1,3 @@
 "# Testes" 
 
-Projeto sincronizado com o Travis CI
+Projeto sincronizado com o Travis CI.
