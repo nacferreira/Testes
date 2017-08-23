@@ -782,11 +782,11 @@ If n is even and greater than 20, print Not Weird
 	
 	
 	// Listas
-	public static  Node insert(Node head,int data) {
+	public static  SimpleNode insert(SimpleNode head,int data) {
 		//Complete this method
 		
-		Node n = new Node(data);
-		Node start = head; 
+		SimpleNode n = new SimpleNode(data);
+		SimpleNode start = head; 
 		
 		// Avançar até ao fim da lista
 		if(head!=null) {
@@ -800,8 +800,8 @@ If n is even and greater than 20, print Not Weird
 		return start;		
 	}
 
-	static void display(Node head) {
-		Node start = head;
+	static void display(SimpleNode head) {
+		SimpleNode start = head;
 		while(start != null) {
 			System.out.print(start.data + " ");
 			start = start.next;
@@ -811,7 +811,7 @@ If n is even and greater than 20, print Not Weird
 	
 	public static void main15(String args[]) {
 	    Scanner sc = new Scanner(System.in);
-	    Node head = null;
+	    SimpleNode head = null;
 	    int N = sc.nextInt();
 
 	    while(N-- > 0) {

@@ -3,5 +3,5 @@ projectKey=com.nunof.hackerrank:DailyTests
 serverUrl=https://sonarcloud.io
 serverVersion=6.5.0.27571
 dashboardUrl=https://sonarcloud.io/dashboard/index/com.nunof.hackerrank:DailyTests
-ceTaskId=AV3rv4qyoZyoVyvtk2Fl
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV3rv4qyoZyoVyvtk2Fl
+ceTaskId=AV3sDHvU_3TVqy6JD3c5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV3sDHvU_3TVqy6JD3c5
